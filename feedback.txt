@@ -1,0 +1,10 @@
+K(30%): 100
+I(30%): 95
+C(10%): 100
+A(30%): 100
+98.5% of 90 - 88.65%
+
+Don't use flag == false.  It is already a boolean.
+Use a function for your menu when you find yourself repeating it multiple times.
+Your score check can just use an else for all the incorrect ones.
+Otherwise great work!
